@@ -1,5 +1,3 @@
-[![Build status](https://ci.appveyor.com/api/projects/status/fjuh5ttevkq2qg5v?svg=true)](https://ci.appveyor.com/project/stueber/doc-magellan6-bibliothek-de)
-
 # MAGELLAN 6 BIBLIOTHEK Dokumentation
 
 Dies ist die deutsche Dokumentation zu MAGELLAN 6 BIBLIOTHEK. Die Dokumentation ist Open Source und wir haben sie mit [GitBook](https://github.com/GitbookIO/gitbook) realisiert.
